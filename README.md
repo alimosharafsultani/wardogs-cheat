@@ -1,6 +1,6 @@
 
 <p align="center">
- WARGOD
+ WARGODS
 </p>
 <p align="center">
 <img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/45c33163-8384-45a6-a67b-a096ef873759" />
